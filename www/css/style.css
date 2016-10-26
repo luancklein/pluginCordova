@@ -1,0 +1,40 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+h3 {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 28px;
+}
+
+#pg {
+	font-family: cursive;
+	font-size: 16px;
+	color: #403e3f;
+	text-align: center;
+	font-weight: bold;
+}
+
+#h, #f {
+	background-color: #52a6ad;
+}
+
+#c {
+	padding: 50px;
+}
+
+#f {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+.b {
+	background-color: #d9d9d9;
+	color: #403e3f;
+	text-transform: uppercase;
+	font-weight: bold;
+	border-radius: 15px;
+}
